@@ -1,0 +1,36 @@
+body {
+    background-color: #1d2942;
+    color: rgb(255, 255, 255);
+    font-family: "Bai Jamjuree", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: #64A712;
+    color: white;
+    font-family: "Bai Jamjuree", sans-serif;
+}
+
+.passo {
+    display: none;url(c:/Users/Cicero/OneDrive/Área de Trabalho/Imagens/Aventura ..jfif)
+}
+
+.passo.ativo {
+    display:block;
+}
+
+main {
+    text-align: center;
+    max-width: 90%;
+}
+
+.H8Rx8c img {
+    height: 50%;
+    object-fit: cover;
+    object-position: top;
+    width: 50%
+}
